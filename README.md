@@ -17,7 +17,7 @@ Make sure you have `PHP` and `composer` installed and configured on your system.
 ```bash
 
 # download/setup the project on your machine.
-$ git clone 
+$ git clone https://github.com/narainsagar/coingecko_api.git
 
 $ cd /projects/coingecko-api
 
